@@ -1,32 +1,23 @@
 # ITSUA
 
-Node.js apps, Shopify & CMS based sites: from brief to launch in 2 to 8 weeks. More than 20 digitalized business areas. Over 50 clients world wide and counting. At least 150K+ satisfied users.
+A full-stack engineering studio. Shipping since 2014.
 
-[Lets discuss your project](https://itsua.eu/contact)
+ITSUA is a twelve-year-old studio of engineers and designers who build custom web applications. Small teams, direct access, written specs, weekly demos. We've digitalised 20+ business areas for 50+ clients across 10+ countries.
 
-## Web development
+[Lets discuss your project](https://itsua.com/contact/)
 
-Would you like to create a professional online appearance? You do already have a website, but it isn’t reaching its full potential just yet? We can help you with that. Our comprehensive experience in the field enables us to create state-of-the-art websites or custom web application from scratch in no time.
+## LANGUAGES & RUNTIMES
 
-- Node.js, React, Vue, Next, Nuxt, MySQL, Mongo
-- HTML, CSS, Tailwind, Bootsrap
-- Traditional and headless CMS (Wordpress, Craft CMS, Strapi)
-- Static site generators (Astro, Gatsby, 11ty)
+TypeScript, Node.js, PHP, Python
 
-## E-commerce
+## FRAMEWORKS
 
-Would you like to sell your products online, but you do not have a store to do so yet? Whether you would like a shop with only basic features or have specific requirements in mind, we can help you realize your ideas. We will support you every step of the way, from the ideation stage to the finished product. Furthermore, we can help you with digital marketing tasks.
+Astro, React, Vue, Nest, Laravel, Symfony, Tailwind
 
-- Shopify & Shopify Plus stores, themes & apps
-- Migration from Magento and WooCommerce
-- Own light-weight and rocket-fast theme
-- Custom and public applications
+## DATA & AI
 
-## Data mining & AI
+PostgreSQL, MySQL, Elasticsearch, Metabase, Tableau, ChatGPT, Claude
 
-Whether you're in need of harvesting data from the web or delving into the depths of your existing datasets for valuable insights, count on us to handle every step of the process. From efficient data collection to advanced AI-driven processing, comprehensive search capabilities, thorough analysis, and beyond, we offer a complete suite of solutions tailored to your needs.
+## PLATFORMS & INFRA
 
-- ChatGPT, Gemini, self-hosted LLMs
-- Python, Pandas, TensorFlow, Haystack
-- Tableau, Metabase, custom dashboards
-- CURL, Apify, headless browsers automation
+Shopify / Plus, Strapi, Docker, Traefik, Cloudflare, AWS, Azure
